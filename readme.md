@@ -1,6 +1,6 @@
-# 📚 Basic Java Programs
-
 <div align="center">
+
+![Core Java & OOPS](Core%20Java%20%26%20OOPS.png)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
